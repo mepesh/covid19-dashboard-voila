@@ -5,3 +5,4 @@ folium==0.10.1
 pandas==0.25.1
 numpy==1.16.5
 json5==0.8.5
+plotly==4.5.2
